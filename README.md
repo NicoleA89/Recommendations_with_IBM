@@ -1,11 +1,11 @@
 # Recommendations with IBM
 
 ## Required libraries
-python 3.6.3
-pandas 0.20.3
-numpy 1.12.1
-matplotlib 2.1.0
-sklearn 0.19.1
+- python 3.6.3
+- pandas 0.20.3
+- numpy 1.12.1
+- matplotlib 2.1.0
+- sklearn 0.19.1
 
 ## Motivation
 In this project I am looking at the interactions between users and articles on the IBM Watson Studio platform.
